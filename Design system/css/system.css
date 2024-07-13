@@ -1,0 +1,72 @@
+body {
+    background-color: var(--bg-base);
+    color: var(--color-base);
+    margin: 3rem;
+}
+
+section {
+    margin-top: 2rem;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+.examples {
+    display: flex;
+    gap: 3rem;
+    align-items: end;
+    margin-top: 1rem;
+}
+
+.examples span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fonts .examples span {
+    min-width: 300px;
+    justify-content: start;
+}
+
+.colors .examples span {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.colors .bg-base {
+    border: 1px solid rgb(71, 71, 71);
+}
+
+.colors .color-base {
+    background-color: var(--bg-base);
+}
+
+.shapes .examples img,
+.shapes .examples span {
+    width: 200px;
+    height: 100px;
+    background-color: var(--bg-elevated);
+}
+
+.shapes img.rounded-full {
+    width: 100px;
+}
+
+.buttons {
+    text-transform: capitalize;
+}
+
+.cards > div{
+    margin-top: 2rem;
+}
+
+.feed-cards{
+    display: flex;
+    gap: 2rem;
+    align-items: end;
+    justify-content: start;
+}

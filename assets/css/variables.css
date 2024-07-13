@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap");
+
+:root {
+    /* font variables */
+    /* --text-heading: 1.5rem; */
+    --text-heading: 1.4rem;
+    --text-base: 1rem;
+    --text-small: 0.875rem;
+    --text-tiny: 0.6875rem;
+    --font-bolder: 700;
+    --font-bold: 600;
+    --font-regular: 500;
+
+    /* color variables */
+    --bg-0: #000;
+    --bg-base: #121212;
+    --bg-elevated: #242424;
+    --bg-item-highlight: #1a1a1a;
+    --bg-highlight: #fff;
+    --bg-highlight-text: #000;
+    --color-highlight: #fff;
+    --color-base: #b3b3b3;
+    --color-secondary: #a7a7a7;
+    --color-base-border: #727272;
+    --color-highlight-border: #fff;
+
+    /* shape variales */
+    --rounded-item: 8px;
+    --rounded-item-small: 6px;
+    --rounded-img: 6px;
+    --rounded-full: 999rem;
+
+    /* icon variables */
+    --icon-base: 24px;
+    --icon-small: 16px;
+}
+
+/* default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: var(--text-base);
+    font-weight: var(--font-regular);
+    color: var(--color-base);
+    background-color: var(--bg-0);
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: hsla(0, 0%, 100%, .3);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: hsla(0, 0%, 100%, .5);
+}
+
+/* Handle on active */
+::-webkit-scrollbar-thumb:active {
+    background: hsla(0, 0%, 100%, .7);
+}

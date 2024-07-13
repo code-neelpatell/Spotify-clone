@@ -1,0 +1,186 @@
+:root {
+    /* 
+    ca -> card-action
+     cav -> card-action-vertical 
+     cah -> card-action-horizontal
+     cf -> card-feed
+    */
+    --cav-padding: 1.5rem;
+    --cah-padding: 1.25rem;
+    --cf-height: 220px;
+    --cf-width: calc(var(--cf-height) * 0.73);
+}
+
+/* cards */
+/* card action */
+.card-action-vertical {
+    background-color: var(--bg-elevated);
+    border-radius: var(--rounded-item);
+    padding: var(--cav-padding);
+    padding-top: calc(var(--cav-padding) - 0.5rem);
+    padding-bottom: calc(var(--cav-padding) - 0.25rem);
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    row-gap: 0.5rem;
+}
+
+.card-action-vertical>h3 {
+    font-size: var(--text-base);
+    font-weight: var(--font-bold);
+    color: var(--color-highlight);
+}
+
+.card-action-vertical>p {
+    font-size: var(--text-small);
+    font-weight: var(--font-regular);
+}
+
+.card-action-vertical>button {
+    margin-top: 0.75rem;
+}
+
+.card-action-horizontal {
+    background-color: var(--bg-elevated);
+    border-radius: var(--rounded-item);
+    padding: var(--cah-padding);
+    padding-top: calc(var(--cah-padding) - 0.25rem);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 0.5rem;
+}
+
+.card-action-horizontal>.text {
+    flex-shrink: 3;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.25rem;
+}
+
+.card-action-horizontal>.text>h3 {
+    font-size: var(--text-small);
+    font-weight: var(--font-bold);
+    color: var(--color-highlight);
+}
+
+.card-action-horizontal>.text>p {
+    font-size: var(--text-regular);
+    font-weight: var(--font-regular);
+}
+
+.card-action-horizontal>button {
+    flex-shrink: 0;
+}
+
+/* card feed*/
+.card-feed {
+    height: var(--cf-height);
+    width: var(--cf-width);
+    padding: 0.75rem;
+    font-weight: var(--font-regular);
+    border-radius: var(--rounded-item-small);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.card-feed>.preview {
+    margin-bottom: 0.5rem;
+    height: 70%;
+    width: 100%;
+    position: relative;
+}
+
+.card-feed>.preview>img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: var(--rounded-item-small);
+}
+
+.card-feed>.text {
+    height: 35%;
+    display: flex;
+    flex-direction: column;
+    /* gap: 0.25rem; */
+}
+
+.card-feed>.text>h4 {
+    font-size: var(--text-base);
+    color: var(--color-highlight);
+    width: 90%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.card-feed>.text>p {
+    font-size: var(--text-small);
+}
+
+.card-feed>.text>p.long {
+    width: 85%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.card-feed:hover {
+    background-color: var(--bg-item-highlight);
+}
+
+.card-feed>.preview>button.icon {
+    background-color: #1ed760;
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+    display: none;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, .3);
+}
+
+.card-feed>.preview>button.icon>img {
+    filter: invert(0);
+}
+
+.card-feed:hover>.preview>button.icon {
+    display: flex;
+}
+
+.card-feed.profile>.text {
+    height: 20%;
+}
+
+.card-feed.profile>.preview {
+    height: 75%;
+}
+
+.card-feed.profile>.preview>img {
+    border-radius: var(--rounded-full);
+}
+
+/* text transform */
+.card-feed p.list span:not(:last-child)::after {
+    content: ", ";
+}
+
+.card-feed.radio>.text>p>span:nth-last-child(2)::after {
+    content: " and ";
+}
+
+.card-feed.radio>.text>h4::after {
+    content: " Radio";
+}
+
+.card-feed.radio>.text>p::before {
+    content: "With ";
+}
+
+.card-feed.episode>.text>p>span:not(:last-child)::after {
+    content: " • ";
+}

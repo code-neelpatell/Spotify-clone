@@ -1,0 +1,72 @@
+box
+---
+regular
+
+card
+---
+type
+    action - vertical
+    action - horizontal
+    feed - profile
+    feed - album
+    feed - radio
+    feed - chart
+    feed - playlist
+    feed - episode
+
+button
+---
+content
+    icon
+    text with icon
+    text 
+size
+    small
+    large
+style
+    background
+    outline
+    nothing
+
+link
+---
+content 
+    inherit
+size
+    inherit
+style
+    hover: highlight
+    hover: highlight none
+    hover: decoration none
+    hover: underline
+
+shape
+---
+item-rounded = 8px
+image-rounded = 6px
+image-circle = 999rem
+
+font size
+---
+heading = 1.5rem
+regular = 1rem
+small = 0.875rem
+extra-small = 0.6875rem
+
+font weight
+---
+bolder = 700
+bold = 600
+regular = 500
+
+color
+---
+background-0 = #000
+background-base = #121212
+background-elevated = #242424
+base-highlight = #1a1a1a
+
+highlight = #fff
+text = #b3b3b3
+secondary = #a7a7a7
+

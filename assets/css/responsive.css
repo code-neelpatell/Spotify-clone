@@ -1,0 +1,84 @@
+/* On screens that are 1024px or more, laptop and larger */
+@media screen and (min-width: 1024px) {
+
+    /* #up-side>nav,
+    #up-side>main {
+        max-height: 87vh;
+    } */
+}
+
+/* On screens that are 1024px or less, tablet */
+@media screen and (max-width: 1024px) {
+    #up-side>nav {
+        padding-right: 0.5rem;
+        width: 50vw;
+        display: none;
+        position: absolute;
+        z-index: 2;
+        background-color: var(--bg-0);
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    }
+
+    #up-side>nav .important-links {
+        position: absolute;
+        bottom: 1rem;
+    }
+
+    #main-links .header #close-menu-btn,
+    #feed-header #open-menu-btn {
+        display: flex;
+    }
+
+    #feed .grid {
+        gap: 0.5rem;
+    }
+
+    #sitemap {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, auto);
+    }
+
+    #sitemap #social-links {
+        justify-self: start;
+    }
+}
+
+/* On screens that are 600px or less, mobile */
+@media screen and (max-width: 600px) {
+    button.large {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    #feed-header {
+        padding: 0.5rem;
+    }
+
+    body>footer {
+        display: none;
+    }
+
+    #up-side>nav {
+        width: 90vw;
+    }
+
+    #up-side>nav,
+    #up-side>main {
+        max-height: calc(100% - 0.5rem);
+        /* 0.5 is a padding from parent class */
+    }
+
+    #feed-header #signup-btn {
+        display: none;
+    }
+
+    #feed .grid {
+        gap: 1rem;
+    }
+
+
+    /* temp */
+    .text-heading {
+        font-size: 1.2rem;
+    }
+}

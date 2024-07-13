@@ -1,0 +1,178 @@
+
+Populat Artists
+---
+https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca
+https://i.scdn.co/image/ab676161000051740261696c5df3be99da6ed3f3
+https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c
+https://i.scdn.co/image/ab67616100005174fc7c542c04b5f7dc8f1b1c16
+https://i.scdn.co/image/ab67616100005174fb13d10be20fdcb5a670f551
+https://i.scdn.co/image/ab67616100005174a038d7d87f8577bbb9686bd3
+https://i.scdn.co/image/ab67616100005174eddbb664c4723f268a60d8c1
+https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf
+https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84
+https://i.scdn.co/image/ab67616100005174e1e00861cdb6bf56b14a1118
+
+
+Popular Albums
+---
+https://i.scdn.co/image/ab67616d00001e021e63de6489803c2b39e7f8e5
+https://i.scdn.co/image/ab67616d00001e025f3ede47954a93aa03efe5f9
+https://i.scdn.co/image/ab67616d00001e029bb2d30b01ac2cada8a8ad03
+https://i.scdn.co/image/ab67616d00001e021d1cc2e40d533d7bcebf5dae
+https://i.scdn.co/image/ab67616d00001e026404721c1943d5069f0805f3
+https://i.scdn.co/image/ab67616d00001e021d93bb16bf3025587d001f45
+https://i.scdn.co/image/ab67616d00001e021a8c4618eda885a406958dd0
+https://i.scdn.co/image/ab67616d00001e02d5f4378b1ffc9119fdc7306d
+https://i.scdn.co/image/ab67616d00001e02cb2f9520171129a3df7a241a
+https://i.scdn.co/image/ab67616d00001e02bb25239324c4e16ae01fda36
+
+song name ('name') - artistname_artistname
+title = song name ("name")
+artists = artistname, artistname
+
+Popular radio
+---
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/4YRxDV8wJFPHPTeXepOstw/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/1mYsTxnqsietFxj1OgoGbG/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/2FKWNmZWDBZR4dE5KX4plR/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/0gXDpqwYNDODn7fB0RDN8J/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/4K6blSRoklNdpw4mzLxwfn/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/6DARBhWbfcS9E4yJzcliqQ/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/4fEkbug6kZzzJ8eYX6Kbbp/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/2oSONSC9zQ4UonDKnLqksx/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/4PULA4EFzYTrxYvOVlwpiQ/en-GB
+https://seeded-session-images.scdn.co/v2/img/540/r/artist/6AiX12wXdXFoGJ2vk8zBjy/en-GB
+
+With Neha Kakkar, Pritam, KK and more
+With Shankar Mahadevan, Anirudh Ravichander, Yuvan Shankar Raja and more
+With Garry Sandhu, Ranjit Bawa, Amrinder Gill and more
+With Mukesh, Kishore Kumar, Asha Bhosle and more
+With Udit Narayan, Alka Yagnik, Anuradha Paudwal and more
+With Arjan Dhillon, Prem Dhillon, Jordan Sandhu and more
+With Mohit Chauhan, Ankit Tiwari, Javed Ali and more
+With Ali Zafar, Rahat Fateh Ali Khan, Asim Azhar and more
+With Ammy Virk, Amrit Maan, Karan Aujla and more
+With G. V. Prakash, Harris Jayaraj, Hiphop Tamizha and more
+
+artistname - with other artists
+Artist = artistname
+with = other artists
+
+Featured Charts
+---
+https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg
+https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_us_default.jpg
+https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg
+https://charts-images.scdn.co/assets/locale_en/regional/daily/region_us_default.jpg
+https://charts-images.scdn.co/assets/locale_en/viral/daily/region_global_default.jpg
+https://charts-images.scdn.co/assets/locale_en/viral/daily/region_us_default.jpg
+
+Your weekly update of the most played tracks right now - Global.
+Your weekly update of the most played tracks right now - USA.
+Your daily update of the most played tracks right now - Global.
+Your daily update of the most played tracks right now - USA.
+Your daily update of the most viral tracks right now - Global.
+Your daily update of the most viral tracks right now - USA.
+
+chart_name - chart_desc
+name = chart - name
+desc = chart - desc + .
+
+Spotify Playlists
+---
+https://i.scdn.co/image/ab67706f00000002473785ca1b20f4c009641d58
+https://i.scdn.co/image/ab67706f00000002b993db2853bd63806df2464f
+https://i.scdn.co/image/ab67706f0000000266b31d66ecad9cd8267e321c
+https://i.scdn.co/image/ab67706f00000002bee353d23b5bcf461f10a675
+https://i.scdn.co/image/ab67706f00000002b5e5274fbae4bcf84bf57f69
+https://i.scdn.co/image/ab67706f00000002bdd8d17cd68f7ad3573a030f
+https://i.scdn.co/image/ab67706f00000002989821e874c3d0a420af7ec0
+https://i.scdn.co/image/ab67706f000000020ddf054db0172d2808f8fc9b
+https://i.scdn.co/image/ab67706f0000000230d2aca5199fe6ec762be5e2
+
+SpotifyTBT takes you back to 2014. Cover: Ed Sheeran
+Big hits from the world of acoustics.
+Taking it back to the 2010s. Cover: Rich Gang
+Taking it back to the 2000s. Cover: Rick Ross
+Real rap music from the golden era.
+Anthems from the early days of recorded rap music.
+The most essential R&B songs from the '10s. Cover: Solange
+The most essential R&B songs from the '00s. Cover: Usher
+The most essential R&B songs from the '90s. Cover: TLC
+
+
+Zzzzzzz
+---
+https://i.scdn.co/image/ab67706f000000021178668a0433d73e34bb4af5
+https://i.scdn.co/image/ab67706f00000002d6e987f5eac610420e385ead
+https://i.scdn.co/image/ab67706f000000025efc7c6db6aa12968d5c00ca
+https://i.scdn.co/image/ab67706f00000002325a73f69fa4fef821080f25
+https://i.scdn.co/image/ab67706f000000028998614b3281e12596844039
+https://i.scdn.co/image/ab67706f00000002e3c324443862abeb46220f00
+https://i.scdn.co/image/ab67706f00000002cd17d41419faa97069e06c16
+https://i.scdn.co/image/ab67706f00000002fbf8dcb03962d651152e64a4
+https://i.scdn.co/image/ab67706f00000002d9e758880a1effe4f5d62062
+https://i.scdn.co/image/ab67706f000000023a6b28e001177d865cbbc073
+
+Soothing, minimalist ambient for deep sleep.
+Let these calm Jazz tracks lull you to sleep.
+Wander into the magical mix of music, water, birds, and calmness.
+Instrumental beats for a restful night's sleep.
+Sleep with sounds of pouring rain and occasional rolling thunder.
+Ten hours long continuous white noise to help you relax and let go.
+Gentle Ambient piano to help you fall asleep.
+Soothing, low frequencies for relaxation, meditation or sleep.
+Hours of comforting sounds of thunder and rain.
+The perfect frequency for sleep or study – science tested, listener approved.
+
+name - playlist_desc
+name = name
+desc = playlist - desc + .
+
+
+Trending Episodes
+---
+https://i.scdn.co/image/ab67656300005f1f9f5d8dab58a909ef23fee583
+https://i.scdn.co/image/ab67656300005f1f099a357ed0a2a39424f2903d
+https://i.scdn.co/image/ab67656300005f1f9d2abc777125c182cf99b60f
+https://i.scdn.co/image/ab67656300005f1f977f6de2920c47bb781ed6e5
+https://i.scdn.co/image/ab67656300005f1f36dbb0b2d65004488fcc322f
+https://i.scdn.co/image/ab67656300005f1f65fc4856285f7fcb49c08d43
+https://i.scdn.co/image/ab67656300005f1f6807eaee16197dac1dd840e8
+https://i.scdn.co/image/5752f200206ea03cb88b18201e8ce15febb2598b
+
+Welcome back, RJ Balaji - Naallanaa Murukku
+#73: Hotel Of Horrors (Serial Killer - H. H. Holmes)
+Anubis : God of Death - Part 2
+Anubis : God of Death - Part 1
+Mahabharata Episode 1: Beginnings
+Relaxing Rain Sounds for Deep Sleep | 2 Hours
+Ep 8 - Ye Na Thi Hamari Qismat
+Asatha Povathu Yaru | Madurai Muthu Special | Ep 96
+
+Jun 2021_15 min
+Jun 2021_93 min
+Jun 2021_16 min
+Jun 2021_13 min
+Apr 2014_24 min
+Aug 2019_122 min
+Aug 2020_3 min
+May 2021_11 min
+
+_hash_ = #
+_colan_ = :
+_pipe_ = |
+_ = ' - ' -- _ = ' '
+
+
+final convertions
+---
+after splitting
+
+replace -> '' , ""
+replace -> ., ' - '
+replace -> _hash_ , #
+replace -> _colan_ , :
+replace -> _pipe_ , |
+
+(only on desc) saperate -> _
